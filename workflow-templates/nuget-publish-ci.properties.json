@@ -1,0 +1,11 @@
+{
+    "name": "Nuget Package Publication CI workflow",
+    "description": "Nuget Package Publication CI workflow.",
+    "iconName": "example-icon",
+    "categories": [
+        "CSharp"
+    ],
+    "filePatterns": [
+        ".*\\.md$"
+    ]
+}
